@@ -1,6 +1,6 @@
 <?php
 
-namespace Psr\Log;
+namespace Innette\Loggerr;
 
 /**
  * Describes a logger instance.
